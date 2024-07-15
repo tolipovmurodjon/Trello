@@ -28,14 +28,15 @@ With Trello Clone, you can manage boards, add members, assign tasks, and much mo
 - Navigation Drawer
 
 ## Screenshots 📸
-| Main Screen 📋 | Board Screen 📋 | Card Details 📋 | Profile Screen 📋 |
+| Sign In/Sign Up Screen 🔑 | Main Screen 📋 | Task List Screen 📋 | Card Screen 📋 |
 |---|---|---|---|
-| ![Main Screen](https://github.com/tolipovmurodjon/home-workout/assets/173606323/2f45c339-cbe4-46d5-88d8-6eefe69a3a0c) | ![Board Screen](https://github.com/tolipovmurodjon/home-workout/assets/173606323/edd56594-0836-4ee3-bcd3-ead5e2e17464) | ![Card Details](https://github.com/tolipovmurodjon/home-workout/assets/173606323/9ca03557-6286-424e-9850-7a51ea5cb3e5) | ![Profile Screen](https://github.com/tolipovmurodjon/home-workout/assets/173606323/09490d87-aae4-4bd4-99fb-c8b0b04116ee) |
+| ![Sign In/Sign Up](https://github.com/user-attachments/assets/197ab9e3-77f0-40c4-93a2-4257debd4925) | ![Main Screen](https://github.com/user-attachments/assets/cc54fcb0-eeff-4b63-a8bb-ce2f49ece624) | ![Task List Screen](https://github.com/user-attachments/assets/29651421-5c93-4ce9-a001-2142d0ba7c97) | ![Card Screen](https://github.com/user-attachments/assets/672b2c0e-5ec0-465c-a3fb-5db1a00fa962) |
+
 
 ## GIFs 🎥
-| Sign In/Sign Up 🌟 | Drag and Drop 📋 | Adding Members 📋 | Profile Update 📋 |
+| Sign In/Sign Up Screen 🔑 | Main Screen 📋 | Task List Screen 📋 | Card Screen 📋 |
 |---|---|---|---|
-| ![Sign In/Sign Up](https://github.com/tolipovmurodjon/home-workout/assets/173606323/7d73082d-0b0c-4fed-9bee-bca1b8f507d4) | ![Drag and Drop](https://github.com/tolipovmurodjon/home-workout/assets/173606323/c4c3fcd5-7c24-40c0-a06c-2dcf5997dd64) | ![Adding Members](https://github.com/tolipovmurodjon/home-workout/assets/173606323/7804b5ea-7d6e-41a9-a7f9-5de12996f23e) | ![Profile Update](https://github.com/tolipovmurodjon/home-workout/assets/173606323/53d76b2f-59a4-4a1f-a91e-994056d279b6) |
+| ![Sign In/Sign Up](https://github.com/user-attachments/assets/197ab9e3-77f0-40c4-93a2-4257debd4925) | ![Main Screen](https://github.com/user-attachments/assets/cc54fcb0-eeff-4b63-a8bb-ce2f49ece624) | ![Task List Screen](https://github.com/user-attachments/assets/29651421-5c93-4ce9-a001-2142d0ba7c97) | ![Card Screen](https://github.com/user-attachments/assets/672b2c0e-5ec0-465c-a3fb-5db1a00fa962) |
 
 ## Notable Design Decisions 🎨
 
