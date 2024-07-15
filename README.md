@@ -34,9 +34,9 @@ With Trello Clone, you can manage boards, add members, assign tasks, and much mo
 
 
 ## GIFs 🎥
-| Sign In/Sign Up Screen 🔑 | Main Screen 📋 | Task List Screen 📋 | Card Screen 📋 |
+| Sign In/Sign Up 🌟 | Board Screen 📋 | Members Screen 👥 | Task List & Card Screen 📋 |
 |---|---|---|---|
-| ![Sign In/Sign Up](https://github.com/user-attachments/assets/197ab9e3-77f0-40c4-93a2-4257debd4925) | ![Main Screen](https://github.com/user-attachments/assets/cc54fcb0-eeff-4b63-a8bb-ce2f49ece624) | ![Task List Screen](https://github.com/user-attachments/assets/29651421-5c93-4ce9-a001-2142d0ba7c97) | ![Card Screen](https://github.com/user-attachments/assets/672b2c0e-5ec0-465c-a3fb-5db1a00fa962) |
+| ![Sign In/Sign Up](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejJ6OGhwbm8yc3Frajl2Njh3Z2lhZWJ5dnhhM2M1c2RiNml2Z2l3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5nhrNlbvSwLlV1Zm9J/giphy.gif) | ![Board Screen](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGI5OWo2MjFwNmZvNXF6NW52aDEyeGRhYjRubHBwYnc4ejlzczZrdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j88XMxzSXcdjBi6GL2/giphy.gif) | ![Members Screen](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGczajBobWFta2g0bTB3cWQ3dG4wMXZobTV3Z2Z4a25qOGR2eWNndiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NHhUYPHYZ83b5JPONw/giphy.gif) | ![Task List & Card Screen](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnpkM2RqZXZiMWhnd2p5OHFjMTVjdzE0aG1kaTE5bDdwdGxxZm5uayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/keWuGgU1AHRnsGbo1j/giphy.gif) |
 
 ## Notable Design Decisions 🎨
 
