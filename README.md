@@ -9,7 +9,7 @@ With Trello Clone, you can manage boards, add members, assign tasks, and much mo
 ## Features ✨
 
 - **Easy Sign In/Sign Up/Sign Out**: Seamless authentication flow to get you started quickly.
-- **Profile Image and Data Upload**: Personalize your profile with images and additional data.
+- **Profile Customization**: Personalize your profile with images and additional data.
 - **Joining Members to Board**: Collaborate by inviting members to your boards.
 - **Drag and Dropping Cards**: Effortlessly organize your tasks with drag-and-drop functionality.
 - **Detailed Card Information**: Manage card details including color, due dates, and assigned persons.
